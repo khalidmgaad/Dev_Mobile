@@ -10,8 +10,6 @@ B = C
 
 FIN
 
-
-
 A	B	NON(A OU B) NON(A ET B)
 
 0	0	1			1
